@@ -1,0 +1,14 @@
+com\example\demo\DemoApplication.class
+com\example\demo\newProducts\model\NewProductsOutput.class
+com\example\demo\dataBaseConfig\Logging.class
+com\example\demo\newProducts\model\NewProductsInput.class
+com\example\demo\newProducts\model\NewProduct.class
+com\example\demo\newProducts\model\Authentication.class
+com\example\demo\newProducts\webService\impl\NewProductImpl.class
+com\example\demo\newProducts\config\NewProductSoapWSConfig.class
+com\example\demo\newProducts\model\NewProducts_Vx0.class
+com\example\demo\dataBaseConfig\Database.class
+com\example\demo\newProducts\model\NewProducts_VxA.class
+com\example\demo\newProducts\webService\NewProduct.class
+com\example\demo\newProducts\controller\NewProductController.class
+com\example\demo\newProducts\xPathSQLInjectionConfig\XPathConfig.class

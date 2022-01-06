@@ -1,0 +1,14 @@
+com\example\demo\DemoApplication.class
+com\example\demo\productDetail\model\ProductDetailOutput.class
+com\example\demo\productDetail\controller\ProductDetailsController.class
+com\example\demo\dataBaseConfig\Logging.class
+com\example\demo\productDetail\model\Authentication.class
+com\example\demo\productDetail\model\ProductDetailInput.class
+com\example\demo\productDetail\config\ProductDetailsSoapWSConfig.class
+com\example\demo\productDetail\model\ProductDetail_Vx0.class
+com\example\demo\productDetail\xPathSQLInjectionConfig\XPathConfig.class
+com\example\demo\productDetail\webService\impl\ProductDetailImpl.class
+com\example\demo\productDetail\model\ProductDetail_VxA.class
+com\example\demo\dataBaseConfig\Database.class
+com\example\demo\productDetail\model\ProductDetailPojo.class
+com\example\demo\productDetail\webService\ProductDetail.class
